@@ -1,0 +1,2 @@
+# JavaAssignmentSolutions
+Solutions repository 
